@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="76" height="50" version="1.1" viewBox="0 0 76 50" xmlns="http://www.w3.org/2000/svg">
+ <g transform="translate(-92,-49)">
+  <g id="8pin_ci">
+   <g id="4_pin" fill="#aeaeae">
+    <path d="m92 54h13v5.5h-13z"/>
+    <path d="m92 88.5h13v5.5h-13z"/>
+    <path d="m92 65.5h13v5.5h-13z"/>
+    <path d="m92 77h13v5.5h-13z"/>
+   </g>
+   <g fill="#aeaeae">
+    <path d="m155 54h13v5.5h-13z"/>
+    <path d="m155 88.5h13v5.5h-13z"/>
+    <path d="m155 65.5h13v5.5h-13z"/>
+    <path d="m155 77h13v5.5h-13z"/>
+   </g>
+   <path d="m105 49h50v50h-50z" fill="#212121"/>
+  </g>
+ </g>
+</svg>
