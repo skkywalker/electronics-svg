@@ -1163,12 +1163,12 @@
   <path d="m826.5 392c4.142 0 7.5 3.338 7.5 7.457l-3e-3 0.043h-14.994l-3e-3 -0.043c0-4.119 3.358-7.457 7.5-7.457z" fill="#B0B0B0"/>
   <path d="m826.5 407c-4.142 0-7.5-3.338-7.5-7.457l3e-3 -0.043h14.994l3e-3 0.043c0 4.119-3.358 7.457-7.5 7.457z" fill="#EDEDED"/>
   <path d="m826.5 404.5c-2.761 0-5-2.239-5-5s2.239-5 5-5 5 2.239 5 5-2.239 5-5 5z" fill="#2B2B2B"/>
-  <text transform="translate(26.615 104)"><tspan x="-4.615" y="6" fill="#939393" font-family="FiraCode-Regular" font-size="15">1</tspan></text>
-  <text transform="translate(126.62 104)"><tspan x="-4.615" y="6" fill="#939393" font-family="FiraCode-Regular" font-size="15">5</tspan></text>
-  <text transform="translate(251.23 104)"><tspan x="-9.231" y="6" fill="#939393" font-family="FiraCode-Regular" font-size="15">10</tspan></text>
-  <text transform="translate(376.23 104)"><tspan x="-9.231" y="6" fill="#939393" font-family="FiraCode-Regular" font-size="15">15</tspan></text>
-  <text transform="translate(501.23 104)"><tspan x="-9.231" y="6" fill="#939393" font-family="FiraCode-Regular" font-size="15">20</tspan></text>
-  <text transform="translate(626.23 104)"><tspan x="-9.231" y="6" fill="#939393" font-family="FiraCode-Regular" font-size="15">25</tspan></text>
-  <text transform="translate(751.23 104)"><tspan x="-9.231" y="6" fill="#939393" font-family="FiraCode-Regular" font-size="15">30</tspan></text>
+  <text transform="translate(26.615 104)"><tspan x="-4.615" y="6" fill="#939393" font-family="monospace" font-size="15">1</tspan></text>
+  <text transform="translate(126.62 104)"><tspan x="-4.615" y="6" fill="#939393" font-family="monospace" font-size="15">5</tspan></text>
+  <text transform="translate(251.23 104)"><tspan x="-9.231" y="6" fill="#939393" font-family="monospace" font-size="15">10</tspan></text>
+  <text transform="translate(376.23 104)"><tspan x="-9.231" y="6" fill="#939393" font-family="monospace" font-size="15">15</tspan></text>
+  <text transform="translate(501.23 104)"><tspan x="-9.231" y="6" fill="#939393" font-family="monospace" font-size="15">20</tspan></text>
+  <text transform="translate(626.23 104)"><tspan x="-9.231" y="6" fill="#939393" font-family="monospace" font-size="15">25</tspan></text>
+  <text transform="translate(751.23 104)"><tspan x="-9.231" y="6" fill="#939393" font-family="monospace" font-size="15">30</tspan></text>
  </g>
 </svg>

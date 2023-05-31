@@ -23,8 +23,6 @@
     <path d="m337.59 128.5v-3.5h2.333v3.5z"/>
     <path d="m342.99 128.5v-3.5h2.333v3.5z"/>
     <path d="m348.39 128.5v-3.5h2.333v3.5z"/>
-   </g>
-   <g fill="#aeaeae">
     <path d="m308.36 117.37h-3.5v-2.333h3.5z"/>
     <path d="m308.36 111.97h-3.5v-2.333h3.5z"/>
     <path d="m308.36 106.57h-3.5v-2.333h3.5z"/>
@@ -32,8 +30,6 @@
     <path d="m308.36 95.766h-3.5v-2.333h3.5z"/>
     <path d="m308.36 90.366h-3.5v-2.333h3.5z"/>
     <path d="m308.36 84.966h-3.5v-2.333h3.5z"/>
-   </g>
-   <g fill="#aeaeae">
     <path d="m361.86 117.37h-3.5v-2.333h3.5z"/>
     <path d="m361.86 111.97h-3.5v-2.333h3.5z"/>
     <path d="m361.86 106.57h-3.5v-2.333h3.5z"/>
@@ -72,13 +68,13 @@
    <path d="m444.18 39.75c-1.933 0-3.5-1.567-3.5-3.5s1.567-3.5 3.5-3.5 3.5 1.567 3.5 3.5-1.567 3.5-3.5 3.5z" fill="#ededed"/>
    <path d="m444.18 32.75c1.933 0 3.5 1.567 3.5 3.5s-1.567 3.5-3.5 3.5-3.5-1.567-3.5-3.5 1.567-3.5 3.5-3.5zm0 0.5c-1.657 0-3 1.343-3 3s1.343 3 3 3 3-1.343 3-3-1.343-3-3-3z" fill="#737373"/>
   </g>
-  <g id="label" transform="translate(-6.1374 .21946)">
-   <text transform="translate(423.62 36)"><tspan x="-12.923" y="5" fill="#d6d6d6" font-family="FiraCode-Regular" font-size="14px">DTR</tspan></text>
-   <text transform="translate(423.75 60.5)"><tspan x="-12.923" y="5" fill="#d6d6d6" font-family="FiraCode-Regular" font-size="14px">RXD</tspan></text>
-   <text transform="translate(423.75 86.79)"><tspan x="-12.923" y="5" fill="#d6d6d6" font-family="FiraCode-Regular" font-size="14px">TXD</tspan></text>
-   <text transform="translate(423.75 112.48)"><tspan x="-12.923" y="5" fill="#d6d6d6" font-family="FiraCode-Regular" font-size="14px">+5V</tspan></text>
-   <text transform="translate(423.62 138.05)"><tspan x="-12.923" y="5" fill="#d6d6d6" font-family="FiraCode-Regular" font-size="14px">GND</tspan></text>
-   <text transform="translate(423.75 164)"><tspan x="-12.923" y="5" fill="#d6d6d6" font-family="FiraCode-Regular" font-size="14px">3V3</tspan></text>
+  <g id="label" transform="translate(-1.4259 .21946)">
+   <text transform="translate(423.62,36)"><tspan x="-12.923" y="5" fill="#d6d6d6" font-family="monospace" font-size="14px">DTR</tspan></text>
+   <text transform="translate(423.75,60.5)"><tspan x="-12.923" y="5" fill="#d6d6d6" font-family="monospace" font-size="14px">RXD</tspan></text>
+   <text transform="translate(423.75,86.79)"><tspan x="-12.923" y="5" fill="#d6d6d6" font-family="monospace" font-size="14px">TXD</tspan></text>
+   <text transform="translate(423.75,112.48)"><tspan x="-12.923" y="5" fill="#d6d6d6" font-family="monospace" font-size="14px">+5V</tspan></text>
+   <text transform="translate(423.62,138.05)"><tspan x="-12.923" y="5" fill="#d6d6d6" font-family="monospace" font-size="14px">GND</tspan></text>
+   <text transform="translate(423.75,164)"><tspan x="-12.923" y="5" fill="#d6d6d6" font-family="monospace" font-size="14px">3V3</tspan></text>
   </g>
   <g id="contacts">
    <g id="perf">
@@ -87,25 +83,15 @@
    <g fill="#d3c12b">
     <path d="m366.78 28.75c4.142 0 7.5 3.338 7.5 7.457l-3e-3 0.043h-2.497c0-2.761-2.239-5-5-5s-5 2.239-5 5h-2.497l-3e-3 -0.043c0-4.119 3.358-7.457 7.5-7.457z"/>
     <path d="m374.27 36.25 3e-3 0.043c0 4.119-3.358 7.457-7.5 7.457s-7.5-3.338-7.5-7.457l3e-3 -0.043h2.497c0 2.761 2.239 5 5 5s5-2.239 5-5z"/>
-   </g>
-   <g fill="#d3c12b">
     <path d="m345.58 28.75c4.142 0 7.5 3.338 7.5 7.457l-3e-3 0.043h-2.497c0-2.761-2.239-5-5-5s-5 2.239-5 5h-2.497l-3e-3 -0.043c0-4.119 3.358-7.457 7.5-7.457z"/>
     <path d="m353.07 36.25 3e-3 0.043c0 4.119-3.358 7.457-7.5 7.457s-7.5-3.338-7.5-7.457l3e-3 -0.043h2.497c0 2.761 2.239 5 5 5s5-2.239 5-5z"/>
-   </g>
-   <g fill="#d3c12b">
     <path d="m325 28.75c4.142 0 7.5 3.338 7.5 7.457l-3e-3 0.043h-2.497c0-2.761-2.239-5-5-5s-5 2.239-5 5h-2.497l-3e-3 -0.043c0-4.119 3.358-7.457 7.5-7.457z"/>
     <path d="m332.5 36.25 3e-3 0.043c0 4.119-3.358 7.457-7.5 7.457s-7.5-3.338-7.5-7.457l3e-3 -0.043h2.497c0 2.761 2.239 5 5 5s5-2.239 5-5z"/>
-   </g>
-   <path d="m392.22 156.25c1.656 0 3 1.343 3 3v9c0 1.657-1.344 3-3 3h-9.001c-1.656 0-2.999-1.343-2.999-3l-1e-3 -9c1e-3 -1.657 1.344-3 3.001-3zm-4.5 2.5c-2.761 0-5 2.239-5 5s2.239 5 5 5 5-2.239 5-5-2.239-5-5-5z" fill="#d3c12b"/>
-   <g fill="#d3c12b">
+    <path d="m392.22 156.25c1.656 0 3 1.343 3 3v9c0 1.657-1.344 3-3 3h-9.001c-1.656 0-2.999-1.343-2.999-3l-1e-3 -9c1e-3 -1.657 1.344-3 3.001-3zm-4.5 2.5c-2.761 0-5 2.239-5 5s2.239 5 5 5 5-2.239 5-5-2.239-5-5-5z"/>
     <path d="m366.78 156.25c4.142 0 7.5 3.338 7.5 7.457l-3e-3 0.043h-2.497c0-2.761-2.239-5-5-5s-5 2.239-5 5h-2.497l-3e-3 -0.043c0-4.119 3.358-7.457 7.5-7.457z"/>
     <path d="m374.27 163.75 3e-3 0.043c0 4.119-3.358 7.457-7.5 7.457s-7.5-3.338-7.5-7.457l3e-3 -0.043h2.497c0 2.761 2.239 5 5 5s5-2.239 5-5z"/>
-   </g>
-   <g fill="#d3c12b">
     <path d="m345.58 156.25c4.142 0 7.5 3.338 7.5 7.457l-3e-3 0.043h-2.497c0-2.761-2.239-5-5-5s-5 2.239-5 5h-2.497l-3e-3 -0.043c0-4.119 3.358-7.457 7.5-7.457z"/>
     <path d="m353.07 163.75 3e-3 0.043c0 4.119-3.358 7.457-7.5 7.457s-7.5-3.338-7.5-7.457l3e-3 -0.043h2.497c0 2.761 2.239 5 5 5s5-2.239 5-5z"/>
-   </g>
-   <g fill="#d3c12b">
     <path d="m325 156.25c4.142 0 7.5 3.338 7.5 7.457l-3e-3 0.043h-2.497c0-2.761-2.239-5-5-5s-5 2.239-5 5h-2.497l-3e-3 -0.043c0-4.119 3.358-7.457 7.5-7.457z"/>
     <path d="m332.5 163.75 3e-3 0.043c0 4.119-3.358 7.457-7.5 7.457s-7.5-3.338-7.5-7.457l3e-3 -0.043h2.497c0 2.761 2.239 5 5 5s5-2.239 5-5z"/>
    </g>
